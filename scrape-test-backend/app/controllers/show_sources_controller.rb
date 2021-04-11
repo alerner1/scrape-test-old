@@ -1,0 +1,2 @@
+class ShowSourcesController < ApplicationController
+end
